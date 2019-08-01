@@ -1,0 +1,18 @@
+
+.my_profile{    float: left;
+    width: 100%;
+    margin: 20px 0;
+}
+.pro_left_ii .nav-tabs>li.active>a{     background: #f22258;
+    border: none;
+    color: #fff;
+	   border: 1px solid #f22258;
+}
+.pro_left_ii  .nav-tabs>li>a {
+    border: 1px solid #e3e3e3;
+}
+.my_profile .media-body,
+.my_profile h4,
+.my_profileh5{    display: inherit;
+    width:100%;
+}

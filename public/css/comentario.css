@@ -1,0 +1,16 @@
+img{
+    width: 100px;
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fundo{
+    background-color: #fdfd96;
+}
+
+.estiloComentario {
+    margin-top: 10px;
+    background-color: #ddffdd;
+    border-left: 6px solid #4CAF50;
+  }
